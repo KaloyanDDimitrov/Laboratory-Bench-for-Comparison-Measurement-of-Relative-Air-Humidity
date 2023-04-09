@@ -39,4 +39,4 @@ For any questions or comments regarding the project, please refer to the thesis 
 
 10. Electrical diagram
 
-(https://github.com/KaloyanDDimitrov/Laboratory-Bench-for-Comparison-Measurement-of-Relative-Air-Humidity/blob/main/Schematic_Relative%20Humidity_2023-03-19.pdf)
+![Schematic](https://github.com/KaloyanDDimitrov/Laboratory-Bench-for-Comparison-Measurement-of-Relative-Air-Humidity/blob/main/Schematic_Relative%20Humidity_2023-03-19.pdf)
